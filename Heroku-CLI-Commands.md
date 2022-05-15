@@ -16,3 +16,17 @@
 
 ### Deployed Heroku App URL:
 - `https://YOUR-APP-NAME.herokuapp.com`
+
+
+### View Verbose Git Remotes:
+- `git remote -v`
+
+
+### Creating Heroku Git Remote:
+- go to Heroku Settings Tab
+- copy **Heroku Git URL** link
+- `git remote add heroku https://git.heroku.com/YOUR-APP-NAME.git`
+
+
+### Push Code to Heroku Remote:
+- `git push -u heroku master`
