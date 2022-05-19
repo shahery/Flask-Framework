@@ -29,4 +29,4 @@
 
 
 ### Push Code to Heroku Remote:
-- `git push -u heroku master`
+- `git push -u heroku main`
